@@ -1,33 +1,48 @@
 #circle{
     border-radius: 50%;
-    height: 20px;
-    width: 20px;
-    margin: 10px;
+    height: 15px;
+    width: 15px;
+    margin: 5px;
 }
 
 .c0{
-     animation: spin 2s linear;
+     animation: spin 2s linear ;
+     animation-delay: 0s, 2s;
+     animation-direction: alternate;
+     animation-iteration-count: infinite;
      background-color: #1976D2;
 }
 
 .c1{
      animation: spin 3s linear;
+     animation-delay: 0s, 3s;
+     animation-direction: alternate;
+     animation-iteration-count: infinite;
      background-color: #3949AB;
 }
 
 .c2{
      animation: spin 4s linear;
+     animation-delay: 0s, 4s;
+     animation-direction: alternate;
+     animation-iteration-count: infinite;
      background-color: #7E57C2;
 
 }
 
 .c3{
      animation: spin 5s linear;
+     animation-delay: 0s, 5s;
+     animation-direction: alternate;
+     animation-iteration-count: infinite;
      background-color: #7CB342;
 }
 
 .c4{
      animation: spin 6s linear;
+     animation-delay: 0s, 6s;
+     animation-direction: alternate;
+     animation-iteration-count: infinite;
      background-color: #FFA726;
 }
 
