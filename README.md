@@ -2,4 +2,4 @@
 
 Creating loading for web pages. Using only css.
 
-![screencast](animation_loader.gif)
+![screencast](animation_gif.gif)
